@@ -1,0 +1,12 @@
+{
+  "document_id": "test_doc_20250912_174347_c3ef8028",
+  "filename": "test_doc.txt",
+  "file_size": 51,
+  "file_type": "txt",
+  "upload_time": "2025-09-12T17:43:47.276428",
+  "processed_time": "2025-09-12T17:43:47.296984",
+  "text_length": 51,
+  "page_count": 0,
+  "chunk_count": 1,
+  "status": "processed"
+}

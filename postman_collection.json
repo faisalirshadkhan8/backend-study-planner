@@ -1,0 +1,65 @@
+{
+  "info": {
+    "name": "basic-rag-chatbot-backend",
+    "_postman_id": "a1b2c3d4-e5f6-47b8-9101-112233445566",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "http://127.0.0.1:5000" }
+  ],
+  "item": [
+    {
+      "name": "Index",
+      "request": { "method": "GET", "url": "{{base_url}}/" }
+    },
+    {
+      "name": "Health",
+      "request": { "method": "GET", "url": "{{base_url}}/health" }
+    },
+    {
+      "name": "RAG Warmup",
+      "request": { "method": "GET", "url": "{{base_url}}/rag/warmup" }
+    },
+    {
+      "name": "RAG Stats",
+      "request": { "method": "GET", "url": "{{base_url}}/rag/stats" }
+    },
+    {
+      "name": "List Documents",
+      "request": { "method": "GET", "url": "{{base_url}}/documents" }
+    },
+    {
+      "name": "Ask",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": { "mode": "raw", "raw": "{\n  \"question\": \"Hello\"\n}" },
+        "url": "{{base_url}}/ask"
+      }
+    },
+    {
+      "name": "Upload",
+      "request": {
+        "method": "POST",
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            { "key": "file", "type": "file", "src": [] }
+          ]
+        },
+        "url": "{{base_url}}/upload"
+      }
+    },
+    {
+      "name": "Delete Document",
+      "request": {
+        "method": "DELETE",
+        "url": {
+          "raw": "{{base_url}}/documents/:document_id",
+          "host": ["{{base_url}}"],
+          "path": ["documents", ":document_id"]
+        }
+      }
+    }
+  ]
+}

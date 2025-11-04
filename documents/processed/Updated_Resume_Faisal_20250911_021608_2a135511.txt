@@ -1,0 +1,53 @@
+[PAGE 1]
+Muhammad Faisal Irshad  
+ 
+ Ali Town, Lahore, 54000  |        faisalirshadkhan8@gmail.com  |   faisalirshadkhan8  | 
+Objective  
+Aspiring Software Engineer with hands -on experience in MERN stack and full -stack development. Seeking an internship 
+at Devorbis to contribute to impactful, real -world software solutions using modern technologies like React.js and Node.js.  
+Education  
+❖ BS Software Engineering | Superior University, Lahore      2022 – Present  
+Relevant Coursework: Data Structures, Algorithms, Software Engineering, Operating Systems, Computer 
+Architecture . 
+Projects  
+Lenexa  Ecommerce Store (05/2025 – Present ) 
+ Developing a fully functional e -commerce platform to enhance full -stack development skills.  
+ Stack: React (Vite), Node.js, Express.js, MongoDB  
+• Developed user -facing UI with responsive design and dynamic routing  
+• Built backend APIs for product, order, and user management  
+• Integrated user authentication and a secure admin panel  
+Mind Sense Analyzer (01/2025 – 04/2025)  
+Emotion Detection Tool – Superior University  
+ A Django -based tool analyzing user input to detect emotional states and provide well -being suggestions.  
+ Stack : Python, Django, NLTK (Natural Language Toolkit)  
+• Implemented NLP pipelines to classify text emotions  
+• Designed REST APIs and integrated frontend logic  
+• Promoted mental health awareness through intelligent insights  
+Little Momo Admin Panel (02/2025 – 03/2025)  
+ Restaurant Admin Dashboard – Superior University  
+ Created a full -featured admin panel to manage customers, orders, and menus.  
+ Stack : React.js, Material UI, Firebase (Firestore + Authentication)  
+• Real-time data synchronization using Firestore  
+• Secure login and role -based access  
+• Responsive UI for seamless admin experience  
+ 
+
+
+[PAGE 2]
+Farm2Market Platform (10/2024 – 12/2024)  
+Agri-eCommerce Web App – Superior University  
+ An e-commerce platform empowering farmer  to sell agricultural goods online.  
+ Stack : Next.js, NestJS, MariaDB  
+• User authentication, product listings, cart, and order tracking  
+• Built secure RESTful APIs for all backend operations  
+• Enhanced accessibility for rural users with responsive UI  
+Skills  
+Languages & Frameworks : JavaScript, Python, C++, React.js, Next.js, Node.js, Express.js, Django  
+Tools & Databases: MongoDB, Firebase, Supabase, XAMPP, Git, GitHub, REST APIs  
+Other Skills: Problem Solving, Communication, Team Collaboration, Debugging, Attention to Detail  
+Highlights for Devorbis Internship  
+• Solid foundation in full stack development , REST APIs, and secure authentication  
+• Experience working on real-world projects  using React.js, Firebase, and Node.js  
+• Strong understanding of scalable application architecture  
+• Proactive team player with excellent problem -solving and debugging skills  
+ 

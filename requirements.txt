@@ -1,0 +1,19 @@
+flask
+flask-cors
+openai
+pypdf>=5.0.0
+faiss-cpu
+sentence-transformers
+python-dotenv
+tiktoken
+numpy
+werkzeug
+tiktoken>=0.5.0          # Token counting for OpenAI
+numpy>=1.24.0            # Vector operations
+werkzeug>=2.3.0          # File upload handling
+python-magic-bin>=0.4.14 # File type detection (Windows)
+google-generativeai>=0.8.2  # Gemini API client
+python-docx>=1.1.0          # DOCX extraction
+pytest>=8.0.0               # Testing framework
+flask-limiter>=3.5.0        # Production-ready rate limiting
+redis>=5.0.0                # Redis client for rate limiting storage

@@ -1,0 +1,90 @@
+[PAGE 1]
+Ali Ibrar Khan   
+ 
+Ali Town , Lahore  | +92 345 2434447  | aliibrar2002@gmail.com  | GitHub  | LinkedIn  | Portfolio  
+Objective  
+React.js specialist passionate about crafting responsive UIs with optimized performance, maintainable code, and intuitive 
+UX/UI principles.  
+ 
+Skills  
+HTML, CSS, JavaScript, React, Bootstrap , TailwindCSS,  LaravelPHP . 
+ 
+Education  
+University o f Central Punjab, Lahore  
+Mar 2021 – Feb 2025  
+BS Computer  Science.  
+CGPA:  3.7 
+ 
+Hobbies  
+Cricket,  Programming, Gaming, Travelling,  Pet Keeping . 
+ 
+Experience  
+Frontend Developer  
+Pace Technology  – May 5, 2025  – Present  
+EduVision – Online Test Preparation System  
+ 
+ Developed a React.js -based digital platform for academic and test preparation, featuring responsive UI with Tailwind CSS 
+for seamless mobile and desktop experiences.  
+ Utilized Redux for centralized state management, ensuring consistent data flow across subject -based tests, progress 
+tracking, and instant results.  
+ Built an Institute Dashboard with role -based components, allowing institutions to monitor performance, access analytics, 
+and configure test settings.  
+ Implemented theme management and admin control panels for customizable user experiences.  
+ Prioritized accessibility and responsive design to enhance usability across all devices.  
+ 
+SHOPPER -E-Commerce Platform  (Full Stack Project)  
+ 
+ Developed a full -stack e -commerce platform using React.js, Tailwind CSS, and Redux, delivering a responsive UI with 
+dynamic product filtering, cart management, and real -time stock updates.  
+ Built role -based dashboards (Customer, Manager, Admin, Driver) with order tracking, sales analytics (HighCharts), and 
+product/category management.  
+ Integrated Leaflet.js for location -based order assignment, enabling users to set delivery markers and drivers to optimize 
+navigation.  
+ Automated order confirmation emails upon checkout, improvin g user engagement with real -time notifications.  
+ Designed a secure backend with Laravel (REST API + Sanctum) for authentication, order processing, and inventory 
+management.  
+ 
+(Tech : React.js,  React Router,  Tailwind CSS, Redux, Leaflet.js, Highcharts , Laravel, MySQL, Laravel Mail)  
+ 
+
+[PAGE 2]
+Personal Projects   
+Front End Project with React JS ( RexCenter ) 
+ 
+ Developed a React.js and Tailwind CSS e -commerce platform with dynamic product filtering (men’s/women’s/kids’ 
+clothing) and real -time search.  
+ Designed intuitive UI with responsive About, Services, and Contact pages for seamless navigation.  
+ Optimized performance for fast load times and cross -device compatibility.  
+ Built modular components for sc alability and maintainability.  
+ 
+    (Tech : React.js, Tailwind CSS, JavaScript, React Router)  
+ 
+Towing Guy – Admin Panel (FYP)  
+ 
+ Developed a role -based admin dashboard using React.js and Tailwind CSS for a vehicle towing management system  
+ Implemented driver/mechanic registration with verification workflows through API integration  
+ Created dynamic ride pricing controls and advanced filtering for users, vehicles, and service personnel  
+ Built interactive dashboards with Highcharts for visualizing ride recor ds and service analytics  
+ Designed responsive UI components for optimal viewing across desktop and tablet devices  
+ Integrated REST APIs for real -time data management and operational monitoring  
+ 
+(Tech : React.js, Tailwind CSS, Highcharts, REST API, React Route r) 
+ 
+Coffee Shop Ordering System  (Coffee -Hub ) 
+ 
+ Built a React.js and Tailwind CSS application for browsing menu items and processing orders  
+ Implemented cart functionality (add/update/remove items) with real-time bill calculation  
+ Designed responsive UI optimized for both mobile and desktop users  
+ Managed state efficiently using React Context API for seamless user experience  
+ 
+(Tech : React.js, Tailwind CSS, Context API)  
+ 
+Weather Application (Quick Weather)  
+ 
+ Developed a React.js weather app with real -time API integration for global city searches  
+ Designed a clean UI displaying key metrics: temperature, humidity, wind speed, and air pressure  
+ Implemented dynamic weather condition rendering (e.g., "Patchy Rain Nea rby")  
+ Added location tagging and timestamp features for weather updates  
+ Built with responsive design for optimal viewing across devices  
+ 
+(Tech : React.js, WeatherAPI.com , Tailwind ) 
