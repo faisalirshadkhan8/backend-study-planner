@@ -167,7 +167,10 @@ class DocumentProcessor:
         raw_text = "\n\n".join(texts)
         
         # Clean up spaced-out characters (e.g., "A s s i g n m e n t" → "Assignment")
-        return self._clean_spaced_text(raw_text)
+        cleaned_text = self._clean_spaced_text(raw_text)
+        
+        # Remove front matter (TOC, title pages, etc.) before returning
+        return self._remove_front_matter(cleaned_text)
     
     @staticmethod
     def _clean_spaced_text(text: str) -> str:
@@ -197,7 +200,10 @@ class DocumentProcessor:
     def _extract_txt_text(self, file_path: str) -> str:
         """Extract text from plain text file."""
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
-            return file.read()
+            raw_text = file.read()
+        
+        # Remove front matter from TXT files too
+        return self._remove_front_matter(raw_text)
     
     def _extract_docx_text(self, file_path: str) -> str:
         """Extract text from DOCX file using python-docx.
@@ -229,7 +235,86 @@ class DocumentProcessor:
                 if line:
                     parts.append(line)
 
-        return "\n".join(parts)
+        raw_text = "\n".join(parts)
+        
+        # Remove front matter from DOCX files too
+        return self._remove_front_matter(raw_text)
+    
+    def _remove_front_matter(self, text: str) -> str:
+        """
+        Remove front matter (title pages, TOC, certificates, etc.) from document text.
+        Keeps only the substantive content starting from Chapter 1 or Introduction.
+        
+        This is applied to ALL document types (PDF, TXT, DOCX) during extraction.
+        """
+        import re
+        
+        lines = text.split('\n')
+        content_start_idx = 0
+        
+        # Strategy 1: Find "Chapter 1" or "1 INTRODUCTION" or "CHAPTER 1"
+        for i, line in enumerate(lines):
+            line_upper = line.strip().upper()
+            # Match patterns like: "CHAPTER 1", "1 INTRODUCTION", "Chapter 1:", etc.
+            if re.match(r'^(CHAPTER\s+1|1[\s.:]+INTRODUCTION|CHAPTER\s+ONE)', line_upper):
+                content_start_idx = i
+                logger.info(f"Found content start at line {i}: '{line[:50]}'")
+                break
+            # Also catch numbered sections like "1.0" or "1.1"
+            if re.match(r'^1\.[0-9]', line.strip()) and len(line.strip()) > 5:
+                content_start_idx = i
+                logger.info(f"Found content start (section 1.x) at line {i}: '{line[:50]}'")
+                break
+        
+        # Strategy 2: If no chapter found, skip obvious front matter sections
+        if content_start_idx == 0:
+            skip_keywords = [
+                'TABLE OF CONTENTS', 'CONTENTS', 'LIST OF FIGURES', 'LIST OF TABLES',
+                'PLAGIARISM', 'CERTIFICATE', 'DECLARATION', 'ACKNOWLEDGEMENT',
+                'DEDICATION', 'APPROVAL', 'ABSTRACT'
+            ]
+            
+            in_front_matter = True
+            for i, line in enumerate(lines):
+                line_upper = line.strip().upper()
+                
+                # Check if we're still in front matter section
+                if any(keyword in line_upper for keyword in skip_keywords):
+                    in_front_matter = True
+                    continue
+                
+                # If we find substantial content (long paragraph), assume front matter ended
+                if in_front_matter and len(line.strip()) > 100 and not re.search(r'\.(\s*\.){2,}', line):
+                    # This looks like real content (long line, no TOC dots)
+                    content_start_idx = max(0, i - 2)  # Include a bit before
+                    logger.info(f"Detected content start via paragraph at line {i}")
+                    break
+        
+        # Strategy 3: Skip TOC entries (lines with multiple dots and page numbers)
+        if content_start_idx == 0:
+            for i, line in enumerate(lines):
+                # If we see 5+ consecutive lines without TOC patterns, assume content started
+                if i > 20:  # Give at least 20 lines for front matter
+                    toc_count = 0
+                    for j in range(max(0, i-5), i):
+                        if re.search(r'\.(\s*\.){2,}|\d+$', lines[j]):
+                            toc_count += 1
+                    
+                    if toc_count == 0:  # No TOC patterns in last 5 lines
+                        content_start_idx = max(0, i - 5)
+                        logger.info(f"Detected content start via TOC absence at line {i}")
+                        break
+        
+        # If we found a content start, trim everything before it
+        if content_start_idx > 0:
+            skipped_lines = content_start_idx
+            content = '\n'.join(lines[content_start_idx:])
+            logger.info(f"Removed {skipped_lines} lines of front matter. Remaining: {len(content)} chars")
+            return content
+        
+        # Fallback: return original if we couldn't detect front matter
+        logger.warning("Could not detect front matter boundaries, returning full text")
+        return text
     
     def _save_metadata(self, metadata: DocumentMetadata) -> None:
         """Save document metadata to JSON file."""

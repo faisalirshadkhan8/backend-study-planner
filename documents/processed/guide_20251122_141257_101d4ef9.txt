@@ -1,0 +1,627 @@
+Mid-Term Exam Study Guide
+Conceptual Questions and Answers
+Alina Ismail
+Bachelors in Psychology, MAJU
+November 15, 2025
+Contents
+I Decision Making and Reasoning 2
+II Visual Perception 8
+III Cognitive Neuroscience Methods 13
+IV Introduction to Cognitive Psychology 16
+1
+
+Part I
+Decision Making and Reasoning
+1. The ”Economic Man vs. Bounded Rationality” Question
+Question
+Analyze why the ”Model of Economic Man and Woman” is considered an unrealistic description of
+human decision-making. Compare this model to the concept ofBounded Rationality. How does
+the ”satisficing” strategy (vs. maximizing) demonstrate a more psychologically realistic approach to
+choice? Give a real-world example.
+Answer
+The”Model of Economic Man and Woman”is unrealistic because it assumes humans are perfectly
+rational computers. It demands that we arefully informed(know all options),infinitely sensitive
+(detect tiny differences), andfully rational(always act to maximize value).
+This fails to describe real humans, who operate under limitations. This is whereBounded Rationality
+comes in. It’s the more realistic theory that we are rationalwithin limits. Our decision-making is
+”bounded” or constrained by our limited cognitive resources, time, and information.
+Satisficingis thestrategywe usebecauseof Bounded Rationality.
+• An ”Economic Man” would be aMaximizer, needing to examine every single option to find
+theabsolute bestone.
+• A ”Satisficer” simply considers options one by one until they find one that is”good enough”—
+one that meets their minimum level of acceptability.
+Example:When choosing a university, aMaximizer(Economic Man) would need to research every
+single university in the country and calculate the single highest ”utility” score. This is impossible. A
+Satisficer(Bounded Rationality) will search until they find one that meets their criteria (e.g., ”It’s in
+Karachi, it has a good Psychology program, and my friends are going there”). They then apply and
+stop searching, even if a ”perfect” school might still exist.
+2. The ”Strategies of Choice” Question
+Question
+Imagine a student is choosing which university to attend from a list of 20 options. Apply theSat-
+isficingheuristic to this decision (what would they do?). Then, apply theElimination by Aspects
+heuristic to thesamedecision. Explain which strategy is more cognitively demanding.
+Answer
+•Applying Satisficing:The student would look at the universities one by one (e.g., in alphabet-
+ical order). They have a ”good enough” mental threshold. They might look at MAJU first. If
+it meets their minimum criteria (e.g., ”has my major,” ”is affordable,” ”has a good reputation”),
+2
+
+they would stop the search and choose it,even though they haven’t even looked at the other 19
+options.
+•Applying Elimination by Aspects (EBA):The student wouldnotlook at them one by one.
+Instead, they would:
+1. Choose the most importantaspect(e.g., ”Must have a Psychology B.S. program”). They
+eliminate all 8 universities that don’t.
+2. Choose the next aspect (e.g., ”Tuition must be under Rs. 200,000 per semester”). From
+the remaining 12, they eliminate 5 more.
+3. Choose the next aspect (e.g., ”Must be in Karachi”). From the remaining 7, they eliminate
+4 more.
+4. They continue this process until only one or two options remain.
+Comparison: Elimination by Aspects is more cognitively demanding.Satisficing only requires
+you to evaluate one single option at a time against a simple threshold. EBA requires you to define
+multiple aspects, rank them by importance, and systematically apply them to theentire setof options,
+which is a much more complex analytical process.
+3. The ”Heuristic Comparison” Question (Classic)
+Question
+Compare and contrast theRepresentativeness Heuristicand theAvailability Heuristic. For each:
+(1) Define it, (2) Explain the specific error it causes, and (3) Provide a real-world example.
+Answer
+While both are mental shortcuts, they work in different ways: Representativeness is a bias ofsimilar-
+ity, while Availability is a bias ofmemory.
+Representativeness Heuristic
+1.Definition:We judge the probability of an event by how well itmatches(orrepresents) our
+existingprototypeor stereotype.
+2.Error:This causes us toignore base rates—the actual statistical frequency of an event in the
+population.
+3.Example:If I describe a man as ”shy and likes to read,” and ask if he is more likely afarmer
+or alibrarian, most people say librarian. Why? His descriptionrepresentsourstereotypeof
+a librarian. We ignore thebase rate: there are thousands of times more farmers than male
+librarians.
+Availability Heuristic
+1.Definition:We judge the probability of an event by howeasilyexamples of it come tomind
+(how ”available” they are in our memory).
+2.Error:This causes us tooverestimatethe frequency of events that are recent, vivid, or heavily
+publicized.
+3
+
+3.Example:People overestimate the risk of plane crashes. Why? Because every crash is a vivid,
+highly publicized news story. It’shighly availablein memory. We underestimate the risk of car
+crashes,even though they are statistically far more deadly.
+4. The ”Framing & Anchoring Application” Question
+Question
+You are trying to sell a used car. Explain how you could use theAnchoringbias to get a higher price.
+Then, explain how you could use theFraming Effect(specifically ”risk aversion for gains”) to make
+a buyer feel good about the deal.
+Answer
+•Using Anchoring:I would set a very high initial asking price. Let’s say I want to sell the
+car for $8,000. I would advertise it for $10,000. This $10,000 becomes the”anchor”(the
+initial reference point). All negotiation will now be biased by this high number. When a buyer
+negotiates me down to $8,500, theyfeellike they got a great deal, and I getmorethan my target
+price.
+•Using Framing:I would frame the car’s quality in terms of acertain gain, not a probability.
+–Bad Frame (Risky):”This car has a 90% chance of not needing any repairs for a year.”
+This introduces a 10% risk, and people arerisk-aversefor gains.
+–Good Frame (Certain Gain):”This car isguaranteedto be reliable. I’ll even include a
+3-month warranty.” We choose options with ”small but certain gains.” The word”guar-
+anteed”is a positive, certain frame that avoids any sense of risk.
+5. The ”Bias in Real Life” Question
+Question
+A student does very poorly on an exam. Analyze this situation using the concepts ofOverconfidence
+(before the exam) andHindsight Bias(after getting the grade). What would the student likely say in
+each case?
+Answer
+•Before the Exam (Overconfidence):The student experiencesOverconfidence, an over-valuation
+of their own knowledge. As the slide notes, ”people do not realize how little they know.”
+– What they say:”I’ve got this, this topic is easy. I glanced at the slides. I’m sure I’ll get
+an A.”
+•After Getting the Grade (Hindsight Bias):The student, having received a ’D’, now expe-
+riencesHindsight Bias, the ”I-knew-it-all-along” effect. They retrospectively believe the bad
+outcome was obvious.
+– What they say:”I knew it! I knew I was going to fail. The professor’s questions were so
+unfair, Iknewshe would ask about that one topic. I totally saw this coming.”
+4
+
+This combination is toxic for learning: Overconfidence stops them from preparing, and Hindsight Bias
+”hinders learning” by impairing their ability to compare their (wrong) expectation with the outcome.
+6. The ”Gambling and Investing” Question
+Question
+A man has invested $50,000 into a business that is clearly failing.
+1. Analyze his decision tokeepinvesting more money using theSunk-Cost Fallacy.
+2. Now, imagine he says: ”I know the last 4 investments have failed, so this next one isboundto
+be a success!” Identify this error.
+3. Explain why his friend (who is ”a bank teller and active in social causes”) islesslikely to be ”a
+bank tellerandactive in social causes” thanjust”a bank teller.” What fallacy is this?
+Answer
+1.Sunk-Cost Fallacy:The $50,000 is the”sunk cost”—it is gone. A rational decision would be
+to evaluate the businesstoday. However, the fallacy is that his decision tocontinueinvesting is
+driven by hispastinvestment, ”hoping to recover what has already been lost.”
+2.Gambler’s Fallacy:This is theGambler’s Fallacy. He mistakenly believes that a series of
+past random events (the 4 failures) will influence the probability of the next event. He thinks a
+”win” is ”due” to balance things out.
+3.Conjunction Fallacy:This is theConjunction Fallacy. It is a basic rule of probability that a
+subset (A+B) canneverbe more probable than the larger set (A). The group of ”bank tellers”
+includesallbank tellers. The group of ”bank tellersandactive in social causes” is asmaller
+subsetof that first group. Therefore, it isalwaysmore probable that she is just a bank teller.
+7. The ”Groupthink” Question (A Bestseller)
+Question
+Imagine you are on a student council that is making a very fast, premature decision to ban an event,
+even though some members privately disagree. Identify this asGroupthink. From your slides,
+describe threesymptomsyou would look for.
+Answer
+This phenomenon isGroupthink, defined as ”premature decision making resulting from the group
+attempting to avoid conflict.” This is common in ”cohesive, homogenous groups” under ”high stress”.
+Based on Slide 28, three symptoms I would look for are:
+1.Squelching of Dissent:If one memberdoesraise a concern, other members will quickly shut
+them down, saying, ”Come on, we’re all on the same page.”
+2.Formation of a ”Mindguard”:One person, often close to the leader, will take on the role
+of the”mindguard.”They will actively ”keep the group norm” by filtering information or by
+personally telling dissenters to ”get with the program.”
+5
+
+3.Feeling Invulnerable and Feeling Unanimous:The group leader might say, ”So, we’re all in
+agreement then? Great,” withoutactuallypolling everyone. Thisillusion of unanimity(where
+silence is mistaken for agreement) and afeeling of invulnerability(”This is the right choice”)
+are classic symptoms.
+8. The ”Deductive vs. Inductive” Question
+Question
+ContrastDeductive ReasoningandInductive Reasoning. Your answermustexplain the key differ-
+ence in thecertaintyof their conclusions. Provide your own example of asyllogism(Deductive) and
+acausal inference(Inductive).
+Answer
+The primary difference iscertainty.
+•Deductive Reasoningis reasoning from general premises to a specific conclusion. If the
+premises are true, the conclusion islogically certainand cannot be false.
+•Inductive Reasoningis reasoning from specific facts or observations to a general, probable
+conclusion. The conclusion isnever logically certain; it is onlylikelyorprobable.
+Deductive Example (Syllogism):
+•Major Premise:All courses taught by Miss Somal Kayani are Psychology courses.
+•Minor Premise:”Decision Making” is taught by Miss Somal Kayani.
+•Conclusion:Therefore, ”Decision Making” is a Psychology course.
+• (If the premises are true, this conclusion is 100%certain.)
+Inductive Example (Causal Inference):
+•Observation:Every time I study for an examafter midnight(Event A), I seem to get a bad
+grade (Event B).
+•Inference (Conclusion):Therefore, studying after midnightcausesme to get bad grades.
+• (This is onlyprobable. It is notcertain. Other factors like stress or ”illusory correlation” could
+be the real cause.)
+9. The ”Wason Task & Confirmation Bias” Question (Advanced)
+Question
+Explain what theWason Selection Task(the card task) demonstrates about human reasoning. Con-
+nect this toConfirmation Biasby explaininghowthis bias causes people to fail the task. Finally,
+explain why people arebetterat this task when it’s presented as aPragmatic Reasoning Schema.
+Answer
+TheWason Selection Taskdemonstrates that humans arenotnaturally good at abstract, formal de-
+ductive logic. Given a rule like ”If a card has a ’D’ (p), it must have a ’3’ (q),” people fail to test it
+6
+
+logically.
+The failure is caused byConfirmation Bias. This is our tendency to ”seek... information in a way
+that confirms” our beliefs.
+• People correctly turn over the ’D’ card (toconfirmthere is a ’3’).
+• But then theyincorrectlyturn over the ’3’ card (also toconfirm).
+• Theyfailto turn over the ’7’ card (not-q). This is the only card that couldfalsifythe rule. We
+are biased toconfirma rule, not to try andbreakit.
+We arebetterat this task when it uses aPragmatic Reasoning Schemabecause our brains have
+evolved to understand real-world rules.
+• If the rule is aPermission Schemalike, ”If you are drinking alcohol (p), you must be over 18
+(q),” we knowexactlywhat to do.
+• We check the person ”drinking alcohol” (p) and we check the person ”under 18” (not-q). This
+”cheater detection” is a practical, social reasoning skill that makes the underlying logic intuitive.
+10. The ”Big Picture: Two Brains” Question
+Question
+Analyze a single, complex decision (e.g., ”choosing a career”) using theDual Process Theory. De-
+scribe how the ’Associative System’ (System 1) would approach it, and name two specific heuristics
+it might use. Then, describe how the ’Rule-based System’ (System 2) would override it.
+Answer
+Let’s analyze ”choosing a career”:
+1.Associative System (System 1):This is thefast, automatic, intuitive, and bias-pronesystem.
+It would rely on ”gut feelings.”
+•Heuristic 1: Availability Heuristic:This system would recall vivid examples. ”My
+cousin is a graphic designer and she seems so happy. That must be a great career.” The
+career is ”available” in memory.
+•Heuristic 2: Representativeness Heuristic:This system would use stereotypes. ”I am
+a caring person who is good at science. Theprototypeof a ’caring science person’ is a
+doctor. Therefore, I should be a doctor.”
+2.Rule-Based System (System 2):This is theslow, analytical, logical, and effortfulsystem. It
+would override the ”gut feeling.”
+• It wouldconsciouslyresearch thebase ratesof salary for graphic designers, not just rely
+on the ”available” example.
+• It wouldlogicallyanalyze the pros and cons ofmultiple”caring science” jobs (e.g., re-
+searcher, pharmacist), not just the one thatrepresentsthe stereotype.
+• It would engage inanalytical thinkinglike, ”To be a doctor, I need to go to medical school,
+take on debt, and do a residency...” This is the slow, effortful system at work.
+7
+
+Part II
+Visual Perception
+1. The ”Tree in the Forest” Question
+Question
+Your slides pose the classic riddle: ”If a tree falls in the forest and no one is around to hear it, does it
+make a sound?” Answer this riddle twice: first from the perspective ofSensation, and second from
+the perspective ofPerception.
+Answer
+This is the classic question that separates sensation from perception.
+1.From the perspective of Sensation (YES):A ”sound” is aphysical event. The falling tree
+(stimulus) displaces air, creating physicalsound wavesthat radiate outward. This is the ”raw
+information from the environment.” This physical phenomenon (the sensation) occurs whether
+an ear is present to detect it or not.
+2.From the perspective of Perception (NO):A ”sound” is apsychological experience. For the
+sound waves to become ”sound,” they must be detected by a sense organ (an ear) and, crucially,
+be ”given meaning and interpretation” by a brain (perception). As your slide states, perception
+is apsychological process. Without a brain to interpret the raw sensory signals, theexperience
+of sound does not exist.
+2. The ”Attention & the Gorilla” Question
+Question
+In the ”Invisible Gorilla Experiment”, the participants’sensationclearly registered the gorilla (light
+waves hit their retinas).Analyzewhythey failed toperceivethe gorilla. What does this experiment
+demonstrate about the relationship betweenattention,sensation, andperception?
+Answer
+This experiment is the perfect demonstration thatsensation can occurwithoutperception.
+•Sensation Occurred:The light waves from the gorilla’s imagedidenter the participants’ eyes,
+hit their retinas, and were successfully transduced into electrochemical impulses. Theraw data
+was successfully detected.
+•Perception Failed:Perception, unlike sensation, is not automatic. It is an active process
+that requiresattention. The participants were engaged in a demanding task (counting bas-
+ketball passes) that consumed their attentional resources. Because their attention was directed
+elsewhere, the sensory information from the gorilla—though present—was never selected for
+higher-level processing.
+8
+
+•Relationship:This experiment proves thatattention acts as a filter or gatekeeperthat de-
+termines which sensations get to become conscious perceptions. We are ”blind” to things we
+don’t pay attention to, even if they are right in front of our eyes.
+3. The ”Two Theories” Question (Classic)
+Question
+Compare and contrastBottom-Up processing and Top-Down processing. Your answer must: (1)
+Define each, (2) Provide one specific theory as an example for each, and (3) Explain why ”degraded
+stimuli” force the brain to relymoreon Top-Down processing.
+Answer
+1.Definitions:
+•Bottom-Up Processingis ”data-driven.” Perception begins with the raw sensory input.
+The brain builds up a perception by starting with the smallest features and assembling
+them into a meaningful whole.
+•Top-Down Processingis ”knowledge-driven.” Our existing knowledge, expectations, and
+contextguidehow we interpret sensory input. We start with a high-level concept (the
+”top”) and use it to make sense of the data (the ”bottom”).
+2.Examples from your Slides:
+•Bottom-Up Example:Recognition-by-Components (RBC) Theory. It states that we first
+detect basic edges, which we then use to identify ”geons” (3D building blocks). We then
+combine these geons to recognize the object.
+•Top-Down Example:Context Effects. We recognize a ”loaf of bread”fasterin a kitchen
+scene than in a random scene. Our high-levelknowledgeof ”kitchens” (the top-down
+context)primesour brain to expect kitchen-related objects.
+3.Degraded Stimuli:When a stimulus is ”unclear, weak, or incomplete” (like the ”ST P” sign),
+thebottom-up data is insufficient. The raw features are ”degraded” and ambiguous. The
+braincannotbuild a reliable perception from the bottom-up alone. Therefore, itmustrely on
+Top-Down processingto fill in the gaps. Our brain makes an educated guess based on context
+(”this is an intersection”) to construct a complete perception.
+4. The ”Evolution of Theories” Question
+Question
+AnalyzetheweaknessofTemplate Theorythat led to its rejection.ExplainhowFeature-Matching
+Theorywas an improvement. Finally,explainthe main advantageRecognition-by-Components
+(RBC) Theoryhas overboth.
+Answer
+•Weakness of Template Theory:Its weakness is its extremeinflexibility. It requires a 1-to-1
+match between the sensory input and a stored ”template.” This fails in the real world. We would
+9
+
+need an impossibly large library of templates for every object in every possible orientation, size,
+and font.
+•Improvement of Feature-Matching Theory:This was a major improvement because itis
+flexible. Instead of matching thewholeobject, it just breaks the object down into its core
+features(e.g., lines, curves). ThePandemonium Modelis a great example. This is better
+because all letter ’A’s (A,A,A) share the same features.
+•Advantage of RBC Theory:RBC’s main advantage isviewpoint invariance. Feature-matching
+still struggles when an object is rotated in 3D, as its 2D features change. RBC solves this by
+proposinggeons, which are 3D building blocks. The geons of an object (like the cylinder and
+handle of amug) are recognizable from almostanyangle.
+5. The ”What vs. Where” Question (A Bestseller)
+Question
+Contrastthe”What” (Ventral) Pathwayand the”Where/How” (Dorsal) Pathway. Now, use this
+to analyze two patients:
+• Patient A hasVisual-Object Agnosia. Which pathway is likely damaged?Justify.
+• Patient B hasOptic Ataxia. Which pathway is likely damaged?Justify.
+Answer
+These are the two crucial streams of visual processing:
+• The”What” (Ventral) Pathwayflows to thetemporal lobeand is responsible forobject
+identification(its shape, color, and identity).
+• The”Where/How” (Dorsal) Pathwayflows to theparietal lobeand is responsible for pro-
+cessing the object’slocationin space andhow to interactwith it.
+Patient Analysis:
+•Patient A (Visual-Object Agnosia):This patient has damage to the”What” (Ventral) Path-
+way.
+–Justification:They canseethe object’s parts (their ”Where” stream is fine) but cannot
+identifywhat it is. Their identity-processing stream is broken, so they can’t link the fea-
+tures to a stored concept like ”eyeglasses.”
+•Patient B (Optic Ataxia):This patient has damage to the”Where/How” (Dorsal) Pathway.
+–Justification:Their ”What” stream is intact, so they canidentifythe object perfectly (”That
+is a broom”). However, their ”How” stream is broken, leading to an ”impairment in using
+visual information to guide physical movement.” They cannot guide their hand to accu-
+rately grasp the object they clearly see.
+10
+
+6. The ”Face & Expert” Question (Advanced)
+Question
+A patient with damage to theFusiform GyrusdevelopsProsopagnosia(face blindness).Explain
+how theExpert-Individuation Hypothesisrefinesthis diagnosis. According to this hypothesis, what
+other(non-face) recognition skill would this patient likely lose,assuming they were an expertin it?
+Answer
+•Analysis:Initially, damage to theFusiform Gyruswas linked only toProsopagnosia, leading
+scientists to believe this was a ”face-only” brain module.
+•Refinement:TheExpert-Individuation Hypothesisrefinesthis idea. It proposes that the
+Fusiform Gyrus isnotjust for faces, but foranyvisual category in which we areexpertsand
+must make ”fine-tuned individual distinctions.” Faces are simply theonecategory we areall
+experts at.
+•Application:According to this hypothesis, if this patient with Prosopagnosia wasalsoa car
+expert or a bird-watching expert, they wouldalsolose this specific expert skill. They would
+still be able to recognize ”a car,” but they would lose their expert ability toindividuateit, for
+example, ”That is a 1968 Ford Mustang, not a 1969.”
+7. The ”Gestalt” Question (Application)
+Question
+You are looking at a poster for a concert.Explainhow theGestalt Principleshelp you organize the
+visual information.Applythe principles of: (1) Figure-Ground, (2) Proximity, and (3) Closure.
+Answer
+The Gestalt principles are how our brain automatically organizes sensory parts into a meaningful
+whole.
+1.Figure-Ground:The first thing my brain does is a ”figure–ground relationship.” The poster
+itself, with its text and images, becomes thefigure—the clear, unified object of my attention.
+The wall it is hanging on becomes the diffuse, unattendedground.
+2.Proximity:The poster has words on it. I don’t see a jumble of 200 individual letters. My
+brain uses theprinciple of proximityto automatically group letters that areclose togetherinto
+words, and words that areclose togetherinto sentences.
+3.Closure:The band’s logo might be stylized, using an ”incomplete” font where the letters have
+gaps in them. My brain uses theprinciple of closureto automaticallyfill in the gapsand
+perceivecompleteletters, allowing me to read the logo effortlessly.
+11
+
+8. The ”Constancy” Question (Application)
+Question
+A door is opening toward you. The image on your retina is changing from a rectangle to a trapezoid.
+Analyzethis situation usingShape Constancy. Then, as a person walks away,analyzewhy you
+perceive them as ”getting farther away” rather than ”shrinking,” usingSize Constancy.
+Answer
+•Shape Constancy:As the door opens, the raw sensory image on myretinachanges. This is
+thesensation. However, myperceptiondoes not change. My brain, using top-down knowl-
+edge about doors, appliesshape constancy. It ”knows” the door’sactualshape is a rectangle.
+Therefore, Iperceivean unchanging, rectangular doormoving—not a shape that ismorphing
+from a rectangle to a trapezoid.
+•Size Constancy:As the person walks away, the image they project on myretinagets objec-
+tivelysmaller. Again, I do not perceive the person as physicallyshrinking. My brain uses other
+depth cues to understand they are movingaway. It then appliessize constancy, automatically
+scaling the retinal image up so that myperceptionis of a person of stable, constant size who is
+simplyincreasing their distance.
+12
+
+Part III
+Cognitive Neuroscience Methods
+1. The ”Central Trade-off” Question
+Question
+Your slides emphasize a central ”trade-off.”Explainthe difference betweenTemporal Resolution
+andSpatial Resolution.Compare EEGandfMRIusing this trade-off. Why can’t a researcher get
+”the best of both worlds” (high temporal and high spatial) from a single method like fMRI?
+Answer
+This is the core concept of neuroscience methods.
+•Temporal Resolutionis abouttime. It’s howquicklythe method can detect changes in brain
+activity (e.g., in milliseconds).
+•Spatial Resolutionis aboutlocation. It’s howaccuratelythe method can pinpoint the source
+of the activity (e.g., in millimeters).
+Comparison:
+•EEGhasexcellent temporal resolution(˜1 ms). It measures electrical ”brain waves” directly
+from the scalp in real-time. But it haspoor spatial resolution(˜1-2 cm) because the electrical
+signal gets smeared by the skull, so we can’t tell exactlywhereit came from.
+•fMRIhasgood spatial resolution(˜1-3 mm). It can pinpoint activity in deep brain structures.
+But it haspoor temporal resolution(˜1-2 seconds).
+Why not both?An fMRIcannotbe fast because it does not measure neural firing directly. It measures
+theblood flow(the BOLD signal) thatfollowsneural firing. This blood flow response is extremely
+slow and sluggish, taking several seconds to rise and fall. The machine is tracking a slow biological
+process, not the instantaneous firing of a neuron.
+2. The ”Causality” Question (Classic)
+Question
+Most human brain imaging (like fMRI and EEG) iscorrelational.Analyzewhat this means. Now,
+contrastthis withTMS(Transcranial Magnetic Stimulation). Why is TMS considered a unique and
+powerful tool thatcanestablishcausalrelationships?
+Answer
+•Correlational:When a person does Task A (e.g., look at a face) and Brain Area B (e.g.,
+the fusiform gyrus) ”lights up” in an fMRI, we have only found acorrelation. We know the
+two events happen together. We donotknow if Area Bcausedthe face recognition, if the
+recognitioncausedArea B to light up, or if a third variable (like ”attention”) caused both. We
+see arelationship, not acause.
+13
+
+•Causal (TMS): TMSis unique because it allows forintervention. It sends a magnetic pulse
+to a specific, superficial brain region totemporarily disrupt or ”deactivate” it.
+–If we use TMS to disrupt Area B, and the person suddenlycannotperform Task A (e.g.,
+they can’t recognize the face), we have established acausal link.
+–We have shown that the normal functioning of Area B iscausally necessaryfor performing
+Task A. This is a much more powerful finding than a simple correlation.
+3. The ”Gold Standard” Question
+Question
+According to your slides,Single-Cell Recordinghasbothexcellent temporal and excellent spatial
+resolution. If it’s the ”best” in precision,analyzewhy it isnotthe primary method used in human
+cognitive neuroscience. What are its major limitations?
+Answer
+Single-Cell Recordingis the ”gold standard” for precision (˜1 ms temporal, ˜0.1 mm spatial), but it
+ishighly invasive.
+•Limitation:It requires surgically implanting a micro-electrode deep into the brain tissue to
+record the electrical firing of asingle neuron.
+•Application:This is not ethically or safely possible in healthy human subjects. Therefore, its
+use is ”typically limited toanimal studies” (like rats or monkeys) or, in very rare human cases,
+on patients who are already undergoing brain surgery for a medical reason (like epilepsy).
+• We use non-invasive methods like fMRI and EEG in healthy humans, sacrificing the ”best”
+precision forhuman suitability and safety.
+4. The ”Middle Ground” Question
+Question
+A researcher wants to study language processing, which is very fast (milliseconds) but also located
+in specific cortical areas.AnalyzewhyfMRI(too slow) andEEG(too imprecise) are both non-ideal
+for this.ExplainhowMEGacts as a ”bridge” to help solve this problem.
+Answer
+•fMRI is non-ideal:Language processing (e.g., understanding a word) happens in hundreds of
+milliseconds. An fMRI’s temporal resolution is inseconds(˜1-2 s). It is far too slow and would
+miss the entire event, averaging it all together.
+•EEG is non-ideal:EEG is fast enough (˜1 ms temporal resolution). However, its spatial reso-
+lution ispoor(˜1-2 cm). It could tellwhena language event happened, but it couldn’t reliably
+tellwhichspecific language area (e.g., Broca’s area vs. Wernicke’s area) was responsible.
+•MEG as a ”Bridge”: MEG(Magnetoencephalography) is the ”bridge” because it has the
+excellent temporal resolutionof EEG (˜1 ms) butmoderate spatial resolution(˜5-10 mm),
+which is much better than EEG. It detects the magnetic fields produced by neural activity.
+14
+
+Because magnetic fields are not distorted by the skull (unlike the electrical fields in EEG),
+MEG can provide a much more accurate location for the fast-acting language processes.
+5. The ”Multimodal Solution” Question
+Question
+Your final slide mentions ”multimodal imaging.”Explainthis concept.Proposea multimodal study
+(e.g., combining two methods) to study anxiety.Justifyyour choice by explaining how thestrengths
+of one method would compensate for thelimitationsof the other.
+Answer
+Multimodal Imagingmeans using two or more neurophysiological methods at the same time (or
+in the same study) to get a more complete picture of brain function. The goal is to combine their
+strengths to overcome their individual limitations.
+Proposed Study: Combining EEG and fMRI to study anxiety.
+•Procedure:Place an EEG cap (which is fMRI-safe) on a participant’s head and have them
+lie inside an fMRI scanner. Show them a series of images, some neutral (a chair) and some
+anxiety-provoking (a snake).
+•Justification (How they compensate):
+1. TheEEG(strength: excellent temporal resolution) will capture theexact millisecondthe
+brain’s ”fear circuit” (like the amygdala) fires after seeing the snake. This compensates
+for the fMRI’slimitation(poor temporal resolution).
+2. ThefMRI(strength: good spatial resolution) will pinpointwhichdeep brain structures
+(like the amygdala, the prefrontal cortex, the insula) are lighting up. This compensates for
+the EEG’slimitation(poor spatial resolution).
+•Result:By combining them, we can seeboththe precisetiming(from EEG)andthe precise
+location(from fMRI) of the anxiety response, something neither method could provide alone.
+15
+
+Part IV
+Introduction to Cognitive Psychology
+1. Activity 1 (from slide): The ”Cocktail Party Effect”
+Question
+”Step outside, observe any cognitive activity, and analyze what mental processes are involved and
+how they work.” (Using the ”Cocktail Party Effect” as an example).
+Answer
+•Observation:I am at a loud, crowded cafeteria at MAJU. I am focused on a conversation with
+my friend, but my attention snaps to another table when someone says my name, ”Alina.”
+•Analysis of Mental Processes:
+– Sensation:My ears are taking inallthe sound waves from the room at once—a single,
+messy, overwhelming wave of sound.
+– Selective Attention:My brain is activelyselectingthe sound pattern of my friend’s voice
+andsuppressing(or ”turning down the volume on”) all the other irrelevant sounds.
+– Unconscious Monitoring:Here is the key part. A part of my brain isunconsciously
+monitoringall the ”suppressed” sounds in the background. It is filtering this background
+noise for one specific, highly important pattern: my own name.
+– Attentional Shift:The moment someone at another table speaks my name, my uncon-
+scious monitor sends an ”alert.” Myselective attentionautomaticallybreaks away from
+my friend’s conversation and shifts to the source of my name.
+– Memory (Recognition):This entire process is only possible because the sound ”Alina”
+is stored in mylong-term memoryas a high-priority signal.
+2. Activity 2 (from slide): Connecting to Historical Approaches
+Question
+”Using the data you collected [the Cocktail Party Effect], reflect on which historical approach better
+explains your chosen cognitive activity and why?”
+Answer
+•Behaviorism (The ”Black Box”):This school failscompletely. A behaviorist could only
+observe thestimulus(my name being spoken) and theresponse(my head turning). They
+would haveno wayto explain the internal, unobservable mental processes ofselective attention
+orunconscious monitoring. The entire phenomenon happens inside the ”black box.”
+•Functionalism (William James):This is amuch betterfit. A functionalist would ask, ”What
+is thepurposeorfunctionof this effect?” The clear answer issurvival and social relevance. It
+16
+
+is highly adaptive (functional) to be able to monitor our environment for important social cues
+(like our name) even when we are busy. This approach explainswhythe effect exists.
+•Modern Cognitive Psychology:This is thebestapproach. It’s the only one that provides the
+tools to create a testablemodelof how this works. A cognitive psychologist would useem-
+piricalexperiments (like dichotic listening tasks) to build arationalisttheory (an information-
+processing model) of attention, complete with filters and a ”dictionary” for important words
+like our name.
+3. The ”Rationalism vs. Empiricism” Question
+Question
+Contrast Rationalism(Descartes) andEmpiricism(Locke).Analyzewhy a modern cognitive psy-
+chologist cannotonlybe one or the other, and explain how the two philosophies aresynthesizedin
+modern research.
+Answer
+•Rationalism (Descartes):This is the belief that knowledge comes fromlogical analysis and
+internal reflection. It is a ”top-down” approach thatemphasizes theory construction.
+•Empiricism (Locke):This is the belief that knowledge comes fromobservation and expe-
+rience. The mind starts as a ”tabula rasa” (blank slate). It is a ”bottom-up” approach that
+emphasizes data gathering.
+Synthesis:A modern cognitive psychologistmustbe both.
+1. Research starts withEmpiricism(data gathering): A psychologistobservesa phenomenon
+(e.g., George Millerobservesthat people can only remember about 7 items).
+2. This data is then used to build a *theory* (Rationalism): Millertheorizesthat this is due to a
+”limit in information processing.”
+3. Thistheorythen guides new research (Empiricism): ”If this theory is true,thenwe should
+observethat ’chunking’ information will help people remember more.”
+As your slide says,data informs theory, and theory guides data interpretation.They work in a
+continuous cycle.
+4. The ”Chomsky vs. Behaviorism” Question (A Bestseller)
+Question
+Analyzewhy theBehavioristview of the mind as a ”black box” (focusing only on S-R) was a
+major problem for psychology. UsingNoam Chomsky’scritique of language, explain how language
+acquisitioncannotbe explained by simple reinforcement.
+Answer
+The Behaviorist ”black box” view was a problem because itintentionally ignoredall the most inter-
+esting parts of being human: thought, memory, and perception.
+17
+
+Noam Chomsky’s critique of language was a key part of the Cognitive Revolution because it showed
+that behaviorismcould notexplain a complex, universal human skill:
+• Behaviorism (like B.F. Skinner’s) argued that children learn language through simplestimulus-
+response (S-R) and reinforcement. (e.g., Child says ”milk,” Mother gives milk (reinforce-
+ment)).
+•Chomsky’s Critique:
+1.Creative Language:Children say things they havenever heard beforeand havenever
+been reinforced for(e.g., ”Igoedto the store”). This creative generation of language is
+impossible in a simple S-R model.
+2.Poverty of the Stimulus:The language children hear (the stimulus) is often messy and
+ungrammatical. Yet, theyallmanage to extract the complexrulesof grammar (the syntax)
+from it.
+•Conclusion:Chomsky argued that language must be based oninnate, biological structures
+in the brain—a ”language acquisition device.” This idea—that we must look at internal mental
+structures—was a direct attack on the ”black box.”
+5. The ”Miller & Hebb” Question (Key Figures)
+Question
+Your slides mention two key figures:George MillerandDonald Hebb.Explainthe ”magic number
+seven” and what it revealed about information processing. Then,explainHebbian Learning and its
+importance.
+Answer
+•George Miller (1956):His ”magic number seven, plus or minus two” was a landmark in
+cognitive psychology.
+– What it is:Miller observed that for many different tasks (like remembering lists of num-
+bers), people’sshort-term memory capacityconsistently ”broke” at around 7 items.
+– What it revealed:This was the first strong evidence that our internal mental processes
+have afixed, measurable limitor ”bottleneck.” This supported the new idea of the brain
+as a type of information processor, which is a core concept of cognitive psychology.
+•Donald Hebb (1949):Hebb provided thebiological linkfor the cognitive revolution.
+– What it is:Hebbian Learning, or ”Hebb’s Rule,” is the simple idea that”neurons that
+fire together, wire together.”
+– What it revealed:When one neuron helps to fire another, the connection (synapse) be-
+tween them gets stronger. This was the first plausible theory to connect thepsychological
+act oflearning(Associationism) to theneurologicalact ofneurons connecting, bridging
+the gap between psychology and neuroscience.
+18
+
+6. The ”Interdisciplinary” Question
+Question
+Cognitive psychology is a ”unified field” that draws on many other disciplines.Analyzehow studying
+AI(like the Turing Test) orAnthropology(culture and brain wiring) helps a psychologist understand
+human cognition.
+Answer
+Cognitive psychology cannot exist in a vacuum. It needs these other fields to get a complete picture:
+•How AI Helps (Computer Science):
+1.AI helps Psychology:To understand the human mind, we can try tobuild a modelof it. If
+we can design a computer program (an AI) thatsimulatesa human cognitive process (like
+language), it proves we have a goodtheoryof how that process works. TheTuring Test
+is a test of this: if an AI can simulate human conversation, what does that tell us about our
+own ”thinking”?
+2.Psychology helps AI:To build abetterAI, computer scientists study thehuman brain—
+the best ”computer” that exists—to get new ideas.
+•How Anthropology Helps:If weonlystudy psychology students at MAJU, we might mis-
+takenly think a cognitive process is ”universal.”Anthropologyteaches us thatculture can
+literally ”rewire” the brain.
+–For example, some cultures’ languages may not have words for ”left” and ”right,” using
+only ”north” and ”south” (cardinal directions). This cultural difference forces their brains
+to develop acompletely differentand superior system for spatial awareness. This shows
+us that our cognitive processes are not just fixed biology but are alsoflexibleand shaped
+by our cultural environment. itemize
+19

@@ -42,22 +42,41 @@ class RetrieverEngine:
         toc_indicators = 0
         for line in lines:
             line_stripped = line.strip()
-            # TOC lines often have: dots, page numbers, section numbers
-            if re.search(r'\.{3,}', line_stripped):  # Multiple dots (.....)
+            
+            # TOC patterns - multiple consecutive dots (with or without spaces)
+            if re.search(r'\.(\s*\.){2,}', line_stripped):  # ". . ." or "....."
                 toc_indicators += 1
-            if re.search(r'^[\d.]+\s+[A-Z].*\s+\d+$', line_stripped):  # "1.1 Title 3"
+            
+            # Section numbering with title and page number: "1.1 Title . . . 3"
+            if re.search(r'^[\d.]+\s+[A-Z].*[\s.]+\d+$', line_stripped):
                 toc_indicators += 1
-            if re.match(r'^\d+\.\d+\s+.*Code\s*\.+\s*\d+$', line_stripped):  # "1.1 Python Code . . . 3"
+            
+            # Just section number and title: "2.1.1 Brief overview of Machine Learning"
+            if re.match(r'^[\d.]{3,}\s+[A-Z]', line_stripped):
                 toc_indicators += 1
+            
+            # Lines that are mostly whitespace/dots and end in page numbers
+            if re.match(r'^[\s.\d]*\d+$', line_stripped) and len(line_stripped) < 100:
+                toc_indicators += 1
+            
+            # Common TOC keywords
+            if re.search(r'\b(Table of Contents|List of Figures|List of Tables|CONTENTS|Chapter \d+)\b', line_stripped, re.IGNORECASE):
+                toc_indicators += 2  # Strong indicator
         
-        # If more than 50% of lines look like TOC, mark as low quality
-        if len(lines) > 0 and toc_indicators / len(lines) > 0.5:
-            logger.debug(f"Filtered TOC-like chunk: {text[:100]}...")
+        # Lower threshold to 25% to be more aggressive
+        if len(lines) > 0 and toc_indicators / len(lines) > 0.25:
+            logger.debug(f"Filtered TOC-like chunk ({toc_indicators}/{len(lines)} indicators): {text[:100]}...")
             return True
         
         # Check if it's just section headers or minimal content
         if len(lines) <= 3 and all(len(line.strip()) < 50 for line in lines):
-            # Short chunks with very brief lines are likely headers/metadata
+            return True
+        
+        # Additional check: if chunk has very low word density (lots of dots/numbers vs words)
+        word_count = len(re.findall(r'\b[a-zA-Z]{3,}\b', text))
+        char_count = len(text)
+        if char_count > 50 and word_count / (char_count / 6) < 0.3:  # Less than 30% word density
+            logger.debug(f"Filtered low word-density chunk: {text[:100]}...")
             return True
         
         return False
